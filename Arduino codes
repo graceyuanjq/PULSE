@@ -1,8 +1,9 @@
 /* PULSE is an interactive installation by Grace Yuan 
+ * Created on October 22nd, 2020
+ * DIGF-6037-001 (Fall 2020) Creation & Computation - Digital Futures, OCAD University
  * Arduino codes are based on Kate Hartman / Nick Puckett's examples:
  * "Blink multiple LEDs at different rates using timers" and 
  * "Multi servo sweep using a timer"
- * Creation & Computation - Digital Futures, OCAD University
  */
  
 #include <Servo.h>
